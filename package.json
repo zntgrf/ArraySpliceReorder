@@ -4,7 +4,7 @@
   "description": "",
   "main": "lib/ArraySpliceReorder.ts",
   "devDependencies": {
-    "@types/jest": "^29.2.5",
+    "@types/jest": "^29.2.6",
     "jest": "^29.3.1",
     "pdf-merger-js": "^4.2.0",
     "ts-jest": "^29.0.5",
